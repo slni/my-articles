@@ -224,7 +224,3 @@ Exchange Rate Request → open.er-api.com → Exchange Rate Data → Local Cache
 
 ---
 
-*This document is a template. Please adjust the following according to your actual situation:*
-- *[your-email@example.com]: Replace with actual contact email*
-- *[GitHub Issues]: Replace with actual feedback channel*
-- *App Name: Ensure it matches the name submitted to App Store*
